@@ -4,9 +4,7 @@ We used Event Bridge to call Lambda function every 1 hr then use the
 
 Boto3 sdk inside the lambda function to talk to EC2
 
-Edit the execution role in lambda function to give permission
-
-to talk to EC2
+Edit the execution role in lambda function to give permission to talk to EC2
 
 Change timeout config to 20+ secs in lambda
 
