@@ -1,6 +1,4 @@
-Lambda function to check on instances and restart them
-
-if they stopped running
+Lambda function to check on instances and restart them if they stopped running
 
 We used Event Bridge to call Lambda function every 1 hr then use the
 
