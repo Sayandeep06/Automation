@@ -1,0 +1,1 @@
+Automating sending emails through Python 
